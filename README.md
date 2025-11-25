@@ -1,6 +1,6 @@
 # Individual Project Documentation
 
-There is no `main.py` in this project. All code is contained in `/home/hanlin/hlwang_projects/course_project_optimization/individual_project/experiment.ipynb` and can be run directly in the notebook.
+There is no `main.py` in this project. All code is contained in `experiment.ipynb` and can be run directly in the notebook.
 
 ## 1. Environment Setup
 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## 2. Project Structure
 
 ```
-/home/hanlin/hlwang_projects/course_project_optimization/individual_project/
+/individual_project/
 │
 ├── README.md
 ├── requirements.txt
